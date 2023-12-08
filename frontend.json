@@ -1,19 +1,22 @@
 [
     {
+        "_comment": "add newer or more complicated projects to the front",
         "image": "https://i.imgur.com/v9ibz8L.jpeg",
         "title": "Random Quote Generator",
         "description": "Assignment from FreeCodeCamp.org - build a website that displays a different random quote each time the user clicks a button",
-        "app-link": "http://www.google.com",
-        "github-link": "http://www.google.com"
+        "app-link": "https://magical-queijadas-8ee93c.netlify.app",
+        "github-link": "https://github.com/codedbysergio/random-quote-generator"
     },
     {
+        "_comment": "add newer or more complicated projects to the front",
         "image": "https://i.imgur.com/v9ibz8L.jpeg",
         "title": "Markdown Previewer",
         "description": "Assignment from FreeCodeCamp.org - a document editor that displays a carbon-copy in real time.",
-        "app-link": "http://www.google.com",
-        "github-link": "http://www.google.com"
+        "app-link": "https://euphonious-mandazi-1b5b65.netlify.app/",
+        "github-link": "https://github.com/codedbysergio/Markdown-Previewer"
     },
     {
+        "_comment": "add newer or more complicated projects to the front",
         "image": "https://i.imgur.com/v9ibz8L.jpeg",
         "title": "Drum Machine",
         "description": "Assignment from FreeCodeCamp.org - a drum machine that can be played with clicks or by pressing letters on the keyboard.",
@@ -21,6 +24,7 @@
         "github-link": "http://www.google.com"
     },
     {
+        "_comment": "add newer or more complicated projects to the front",
         "image": "https://i.imgur.com/v9ibz8L.jpeg",
         "title": "Javascript Calculator",
         "description": "Assignment from FreeCodeCamp.org - a calculator.",
@@ -28,6 +32,7 @@
         "github-link": "http://www.google.com"
     },
     {
+        "_comment": "add newer or more complicated projects to the front",
         "image": "https://i.imgur.com/v9ibz8L.jpeg",
         "title": "25 + 5 Clock",
         "description": "Assignment from FreeCodeCamp.org - a 25 + 5 clock.",
