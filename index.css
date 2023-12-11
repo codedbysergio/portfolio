@@ -1,0 +1,16 @@
+.body {
+    background-color: rgba(var(--bs-body-color-rgb), 1);
+    color: var(--bs-secondary-bg);
+}
+h1 {
+    color: #eeff00;
+}
+.col-lg-4, .col-md-6, .col-sm-12 {
+    padding: 1rem;
+    background-color: #eeff00;
+    border: 2px solid rgba(var(--bs-body-color-rgb), 1);
+    color: rgba(var(--bs-body-color-rgb), 1);
+}
+.fa-file {
+    height: 12rem;
+}
