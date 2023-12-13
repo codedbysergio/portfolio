@@ -1,3 +1,5 @@
+const bootstrap = require('bootstrap');
+
 function loadFullstack() {
     var fsProjects;
     fetch('./fullstack.json')
