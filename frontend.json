@@ -1,37 +1,23 @@
 [
     {
-        "image": "https://i.imgur.com/v9ibz8L.jpeg",
+        "image": "https://drive.google.com/file/d/1zBD0_a1P3hHhTvqX7EETBk7s-Ogs6X7G/preview",
         "title": "Random Quote Generator",
         "description": "Assignment from FreeCodeCamp.org - build a website that displays a different random quote each time the user clicks a button",
-        "app-link": "https://magical-queijadas-8ee93c.netlify.app",
+        "app-link": "http://sergiocreates.com/random-quote-generator",
         "github-link": "https://github.com/codedbysergio/random-quote-generator"
     },
     {
-        "image": "https://i.imgur.com/v9ibz8L.jpeg",
+        "image": "https://drive.google.com/file/d/1Tyk0-d7FiFAE80YaeFtPRiV6JZP_SA-b/preview",
         "title": "Markdown Previewer",
         "description": "Assignment from FreeCodeCamp.org - a document editor that displays a carbon-copy in real time.",
-        "app-link": "https://euphonious-mandazi-1b5b65.netlify.app/",
+        "app-link": "http://sergiocreates.com/markdown-previewer",
         "github-link": "https://github.com/codedbysergio/Markdown-Previewer"
     },
     {
-        "image": "https://i.imgur.com/v9ibz8L.jpeg",
+        "image": "https://drive.google.com/file/d/1N0c5QIryKOQnVnT3RLOJpLm27pf1KvzX/preview",
         "title": "Drum Machine",
         "description": "Assignment from FreeCodeCamp.org - a drum machine that can be played with clicks or by pressing letters on the keyboard.",
-        "app-link": "https://whimsical-kitsune-ec8c9e.netlify.app/",
+        "app-link": "http://sergiocreates.com/drum-machine",
         "github-link": "https://github.com/codedbysergio/drum-machine"
-    },
-    {
-        "image": "https://i.imgur.com/v9ibz8L.jpeg",
-        "title": "Javascript Calculator",
-        "description": "Assignment from FreeCodeCamp.org - a calculator.",
-        "app-link": "http://www.google.com",
-        "github-link": "http://www.google.com"
-    },
-    {
-        "image": "https://i.imgur.com/v9ibz8L.jpeg",
-        "title": "25 + 5 Clock",
-        "description": "Assignment from FreeCodeCamp.org - a 25 + 5 clock.",
-        "app-link": "http://www.google.com",
-        "github-link": "http://www.google.com"
     }
 ]

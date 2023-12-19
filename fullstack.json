@@ -2,28 +2,7 @@
     {
         "image": "https://i.imgur.com/v9ibz8L.jpeg",
         "title": "Food Order App",
-        "description": "This is is a demo web app where users can search restaurants and menus, and place an order, and admins can add restaurants, menus, and more.",
-        "app-link": "http://www.google.com",
-        "github-link": "http://www.google.com"
-    },
-    {
-        "image": "https://i.imgur.com/v9ibz8L.jpeg",
-        "title": "Non-existent App",
-        "description": "This is a demo web app that doesn't exist. I'm simply pretending it does to fill space while I design.",
-        "app-link": "http://www.google.com",
-        "github-link": "http://www.google.com"
-    },
-    {
-        "image": "https://i.imgur.com/v9ibz8L.jpeg",
-        "title": "Imaginary App",
-        "description": "Another app that's nonexistent and it's best it stay that way. Nobody in their wildest dreams would want an \"Imaginary App\"",
-        "app-link": "http://www.google.com",
-        "github-link": "http://www.google.com"
-    },
-    {
-        "image": "https://i.imgur.com/v9ibz8L.jpeg",
-        "title": "Not at all an App",
-        "description": "This is a demo web app where users can search restaurants and menus, and place an order, and admins can add restaurants, menus, and more.",
+        "description": "Placeholder for various pieces of a single project that haven't yet been combined and deployed.",
         "app-link": "http://www.google.com",
         "github-link": "http://www.google.com"
     }
