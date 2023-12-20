@@ -70,6 +70,7 @@ function loadFrontend() {
                     <div class="card-body">
                     <h5 class="card-title">${feProjectsReversed[project]["title"]}</h5>
                     <p class="card-text">${feProjectsReversed[project]["description"]}</p>
+                    <p class="card-text">${feProjectsReversed[project]["technologies"]}</p>
                     </div>
                     <div class="row align-items-end" style="padding-bottom: 1rem">
                         <div class="col">

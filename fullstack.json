@@ -3,6 +3,7 @@
         "image": "https://i.imgur.com/v9ibz8L.jpeg",
         "title": "Food Order App",
         "description": "Placeholder for various pieces of a single project that haven't yet been combined and deployed.",
+        "technologies": "React, Javascript, HTML, Bootstrap, CSS",
         "app-link": "http://www.google.com",
         "github-link": "http://www.google.com"
     }

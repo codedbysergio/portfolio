@@ -3,21 +3,24 @@
         "image": "./thumbnails/random-quote-machine-thumbnail.png",
         "title": "Random Quote Generator",
         "description": "Assignment from FreeCodeCamp.org - build a website that displays a different random quote each time the user clicks a button",
-        "app-link": "http://sergiocreates.com/random-quote-generator",
+        "technologies": "React, Javascript, HTML, CSS",
+        "app-link": "/random-quote-generator",
         "github-link": "https://github.com/codedbysergio/random-quote-generator"
     },
     {
         "image": "./thumbnails/markdown-previewer-thumbnail.png",
         "title": "Markdown Previewer",
         "description": "Assignment from FreeCodeCamp.org - a document editor that displays a carbon-copy in real time.",
-        "app-link": "http://sergiocreates.com/markdown-previewer",
+        "technologies": "React, Javascript, HTML, CSS",
+        "app-link": "/markdown-previewer",
         "github-link": "https://github.com/codedbysergio/Markdown-Previewer"
     },
     {
         "image": "./thumbnails/drum-machine-thumbnail.png",
         "title": "Drum Machine",
         "description": "Assignment from FreeCodeCamp.org - a drum machine that can be played with clicks or by pressing letters on the keyboard.",
-        "app-link": "http://sergiocreates.com/drum-machine",
+        "technologies": "React, Javascript, HTML, CSS",
+        "app-link": "/drum-machine",
         "github-link": "https://github.com/codedbysergio/drum-machine"
     }
 ]
