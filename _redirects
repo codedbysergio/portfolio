@@ -1,4 +1,0 @@
-# Redirects from what the browser requests to what we serve
-/random-quote-generator/*  https://magical-queijadas-8ee93c.netlify.app/:splat  200
-/markdown-previewer/*      https://euphonious-mandazi-1b5b65.netlify.app/:splat 200
-/drum-machine/*            https://whimsical-kitsune-ec8c9e.netlify.app/:splat  200

@@ -1,0 +1,18 @@
+[[redirects]]
+  from = "/random-quote-generator/*"
+  to = "https://magical-queijadas-8ee93c.netlify.app/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/markdown-previewer/*"
+  to = "https://euphonious-mandazi-1b5b65.netlify.app/:splat"
+  status = 200
+  force = true
+
+
+[[redirects]]
+  from = "/drum-machine/*"
+  to = "https://whimsical-kitsune-ec8c9e.netlify.app/:splat"
+  status = 200
+  force = true
