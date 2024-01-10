@@ -16,12 +16,39 @@
 
 # exceptions for markdown-previewer
 
+[[redirects]]
+  from = "/static/js/main.207a118e.js/*"
+  to = "https://euphonious-mandazi-1b5b65.netlify.app/static/js/main.207a118e.js/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/static/css/main.59e92c41.css/*"
+  to = "https://euphonious-mandazi-1b5b65.netlify.app/static/css/main.59e92c41.css/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/manifest.json/*"
+  to = "https://euphonious-mandazi-1b5b65.netlify.app/manifest.json/"
+  status = 301
+  force = true
+
 
 
 # exceptions for drum-machine
 
+[[redirects]]
+  from = "/static/js/main.46244531.js/*"
+  to = "https://whimsical-kitsune-ec8c9e.netlify.app/static/js/main.46244531.js"
+  status = 301
+  force = true
 
-
+[[redirects]]
+  from = "/static/css/main.b393c138.css/*"
+  to = "https://whimsical-kitsune-ec8c9e.netlify.app/static/css/main.b393c138.css"
+  status = 301
+  force = true
 
 
 
