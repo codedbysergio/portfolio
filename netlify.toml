@@ -1,3 +1,33 @@
+# exceptions for random-quote-generator
+
+[[redirects]]
+  from = "/static/js/main.6dbcc4ee.js/*"
+  to = "https://magical-queijadas-8ee93c.netlify.app/static/js/main.6dbcc4ee.js/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/static/css/main.43045ee7.css/*"
+  to = "https://magical-queijadas-8ee93c.netlify.app/static/css/main.43045ee7.css/"
+  status = 301
+  force = true
+
+
+
+# exceptions for markdown-previewer
+
+
+
+# exceptions for drum-machine
+
+
+
+
+
+
+
+# for the portfolio
+
 [[redirects]]
   from = "/random-quote-generator/*"
   to = "https://magical-queijadas-8ee93c.netlify.app/"
@@ -10,9 +40,9 @@
   status = 200
   force = true
 
-
 [[redirects]]
   from = "/drum-machine/*"
   to = "https://whimsical-kitsune-ec8c9e.netlify.app/"
   status = 200
   force = true
+
