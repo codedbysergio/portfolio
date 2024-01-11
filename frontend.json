@@ -2,7 +2,7 @@
     {
         "image": "./thumbnails/random-quote-machine-thumbnail.png",
         "title": "Random Quote Generator",
-        "description": "Assignment from FreeCodeCamp.org - build a website that displays a different random quote each time the user clicks a button",
+        "description": "Assignment from FreeCodeCamp.org - build a website that displays a different random quote (I used song lyrics) each time the user clicks a button.",
         "technologies": "React, Javascript, HTML, CSS",
         "app-link": "https://sergiocreates.com/random-quote-generator",
         "github-link": "https://github.com/codedbysergio/random-quote-generator"
