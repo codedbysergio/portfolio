@@ -1,4 +1,4 @@
-const bootstrap = require('bootstrap');
+// const bootstrap = require('bootstrap');
 
 function loadFullstack() {
     var fsProjects;

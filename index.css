@@ -19,8 +19,21 @@ h1 {
     width: 100%;
 }
 
+.container-fluid {
+    justify-content: center;
+}
+
+#contact-links {
+    justify-content: center;
+}
+
 .card {
     background-color: #353535;
     color: lightgrey;
     border: 3px solid black;
+}
+
+.fa-brands {
+    font-size: 50px;
+    
 }
