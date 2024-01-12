@@ -12,6 +12,12 @@
   status = 301
   force = true
 
+  [[redirects]]
+  from = "/static/js/main.7a56caaf.js/*"
+  to = "https://magical-queijadas-8ee93c.netlify.app/static/js/main.7a56caaf.js/"
+  status = 301
+  force = true
+
 
 
 # exceptions for markdown-previewer
