@@ -22,5 +22,13 @@
         "technologies": "React, Javascript, HTML, CSS",
         "app-link": "https://sergiocreates.com/drum-machine",
         "github-link": "https://github.com/codedbysergio/drum-machine"
+    },
+    {
+        "image": "./thumbnails/calculator-react-thumbnail.png",
+        "title": "Calculator",
+        "description": "Assignment from FreeCodeCamp.org - a basic calculator that follows order of operations.",
+        "technologies": "React, Javascript, HTML, CSS",
+        "app-link": "https://sergiocreates.com/calculator",
+        "github-link": "https://github.com/codedbysergio/calculator"
     }
 ]
