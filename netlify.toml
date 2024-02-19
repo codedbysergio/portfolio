@@ -2,19 +2,13 @@
 
 [[redirects]]
   from = "/static/js/main.118225a5.js/*"
-  to = " https://gorgeous-meringue-ef27ce.netlify.app/static/css/main.94e5bc31.css"
+  to = " https://gorgeous-meringue-ef27ce.netlify.app/static/js/main.118225a5.js/"
   status = 301
   force = true
 
 [[redirects]]
   from = "/static/css/main.94e5bc31.css/*"
-  to = " https://gorgeous-meringue-ef27ce.netlify.app/static/css/main.94e5bc31.css"
-  status = 301
-  force = true
-
-  [[redirects]]
-  from = "/static/css/main.94e5bc31.css/*"
-  to = "https://gorgeous-meringue-ef27ce.netlify.app/static/css/main.94e5bc31.css/*"
+  to = " https://gorgeous-meringue-ef27ce.netlify.app/static/css/main.94e5bc31.css/"
   status = 301
   force = true
 
