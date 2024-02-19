@@ -1,3 +1,8 @@
+# exceptions for calculator
+
+[[redirects]]
+
+
 # exceptions for random-quote-generator
 
 [[redirects]]
@@ -60,6 +65,13 @@
 
 
 # for the portfolio
+
+[[redirects]]
+  from = "/calculator/*"
+  to = "https://gorgeous-meringue-ef27ce.netlify.app/"
+  status = 200
+  force = true
+
 
 [[redirects]]
   from = "/random-quote-generator/*"
